@@ -5,7 +5,7 @@
   connection: local
  
   tasks:
-   - name: DISPLAYING THE RUNNING-CONFIGG
+   - name: DISPLAYING THE RUNNING-CONFIG
      ios_command:
        commands:
          - show running-config  
